@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Test!</string>
+    <string name="app_name">Android test</string>
+<string name="buttonHandler">myClickHandler</string>
+<string name="celcius">to Celcius</string>
+<string name="farenheit">to Fahrenheit</string>
+<string name="calc">Calculate</string>
+</resources>
